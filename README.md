@@ -43,12 +43,12 @@ Q8: Total inventory weight per category.
 
 ## Insights Gained
 
-Discount analysis helps identify best-value deals.
+1.Discount analysis helps identify best-value deals.
 
-Revenue concentration shows which categories are driving sales.
+2.Revenue concentration shows which categories are driving sales.
 
-Stock status analysis helps track supply chain efficiency.
+3.Stock status analysis helps track supply chain efficiency.
 
-Weight classification enables better inventory segmentation.
+4.Weight classification enables better inventory segmentation.
 
 
