@@ -12,3 +12,13 @@ The analysis helps answer key business questions like:
 3.What products are out of stock despite being high in demand?
 
 4.How to classify inventory into low, medium, and bulk categories?
+
+## Data Exploration & Cleaning
+
+1.Checked for null values and duplicates.
+
+2.Identified products with zero MRP or selling price and removed them.
+
+3.Converted paise into rupees for consistent pricing.
+
+4.Grouped products based on weight categories (Low, Medium, Bulk).
