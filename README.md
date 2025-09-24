@@ -6,8 +6,11 @@ This project analyzes Zepto’s product dataset using SQL. The goal is to perfor
 The analysis helps answer key business questions like:
 
 1.Which products offer the best discounts?
+
 2.Which categories drive the highest revenue?
+
 3.What products are out of stock despite being high in demand?
+
 4.How to classify inventory into low, medium, and bulk categories?
 
 ## Data Exploration & Cleaning
@@ -41,6 +44,11 @@ Q8: Total inventory weight per category.
 ## Insights Gained
 
 Discount analysis helps identify best-value deals.
+
 Revenue concentration shows which categories are driving sales.
+
 Stock status analysis helps track supply chain efficiency.
+
 Weight classification enables better inventory segmentation.
+
+
